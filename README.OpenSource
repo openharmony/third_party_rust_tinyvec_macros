@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "tinyvec_macros",
+    "License": "Apache License V2.0",
+    "License File": "LICENSE-APACHE.md",
+    "Version Number": "0.1.1",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/Soveu/tinyvec_macros",
+    "Description": "Some macros for tiny containers."
+  }
+]
