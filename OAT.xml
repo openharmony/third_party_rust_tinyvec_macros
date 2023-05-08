@@ -59,6 +59,7 @@ Note:If the text contains special characters|please escape them according to the
         <policylist>
             <policy name="projectPolicy" desc="">
                 <policyitem type="compatibility" name="InvalidLicense" path="Cargo.toml" desc="toml文件已声明license"/>
+                <policyitem type="compatibility" name="zlib-acknowledgement" path=".*" rule="may" group="defaultPolicyFilter" desc="原生上游文件使用ZLIB license文件"/>
             </policy>
         </policylist>
     </oatconfig>
